@@ -1,0 +1,7 @@
+RENCANA BELAJAR ANGGARA
+
+- Frontend
+  * Belajar Git dan Github
+- Backend
+- Fullstack
+- Android
