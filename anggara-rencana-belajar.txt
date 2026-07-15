@@ -3,6 +3,6 @@ RENCANA BELAJAR ANGGARA
 - Frontend
   * Belajar Git dan Github
   * Belajar materi lanjutan Git dan Github
+    ^ Github API
 - Backend
 - Fullstack
-- Android
