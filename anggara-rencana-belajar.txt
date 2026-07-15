@@ -2,7 +2,10 @@ RENCANA BELAJAR ANGGARA
 
 - Frontend
   * Belajar Git dan Github
+    ^ basic
+    ^ praktik
   * Belajar materi lanjutan Git dan Github
 - Backend
 - Fullstack
 - Android
+- PostgreSQL
